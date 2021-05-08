@@ -4,8 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Enable in the google console
 
-Places API
-Maps JavaScript API
+Places API.
+Maps JavaScript API.
 Geocoding API
 
 ## Update needed
