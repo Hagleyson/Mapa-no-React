@@ -2,6 +2,16 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Enable in the google console
+
+Places API
+Maps JavaScript API
+Geocoding API
+
+## Update needed
+
+In the .env.local file put your generated key in the google console
+
 ## Available Scripts
 
 In the project directory, you can run:
